@@ -1,3 +1,6 @@
+*{
+    transition: all .4s linear;
+}
 body {
     background-color: rgb(12, 12, 36);
     color: white;
